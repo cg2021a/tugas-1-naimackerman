@@ -1,0 +1,14 @@
+body {
+    background: lightblue;
+    color: darkred;
+}
+
+.content {
+    text-align: center;
+}
+
+#myCanvas {
+    border: 2px solid darkred;
+    border-radius: 2rem;
+    box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.5);
+}
