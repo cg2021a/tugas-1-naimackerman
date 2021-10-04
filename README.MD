@@ -16,4 +16,4 @@
 <img src="./depan.jpg" width="400" height="600">
 
 ### Preview : <a href="https://cg2021a.github.io/tugas-1-naimackerman">Tugas-1</a>
-<img src="./preview.jpg">
+<img src="./preview.JPG">
