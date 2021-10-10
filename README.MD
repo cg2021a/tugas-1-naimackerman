@@ -4,16 +4,21 @@
 ## 05111940000074
 ### Nama Benda : Koper
 ### Foto dari sudut kanan atas :
-<img src="./kanan.jpg" width="400" height="600">
+<img src="./tugas-1-webgl/kanan.jpg" width="400" height="600">
 
 ### Foto dari sudut kiri atas :
-<img src="./kiri.jpg" width="400" height="600">
+<img src="./tugas-1-webgl/kiri.jpg" width="400" height="600">
 
 ### Foto dari sudut belakang atas :
-<img src="./belakang.jpg" width="400" height="600">
+<img src="./tugas-1-webgl/belakang.jpg" width="400" height="600">
 
 ### Foto dari sudut depan atas :
-<img src="./depan.jpg" width="400" height="600">
+<img src="./tugas-1-webgl/depan.jpg" width="400" height="600">
 
-### Preview : <a href="https://cg2021a.github.io/tugas-1-naimackerman">Tugas-1</a>
-<img src="./preview.JPG">
+### Preview Web-GL : <a href="https://cg2021a.github.io/tugas-1-naimackerman/tugas-1-webgl">Tugas-1-WebGL</a>
+<img src="./tugas-1-webgl/preview.JPG">
+
+<br>
+
+### Preview Three-JS : <a href="https://cg2021a.github.io/tugas-1-naimackerman/tugas-1-threejs">Tugas-1-ThreeJS</a>
+<img src="./tugas-1-threejs/preview.JPG">

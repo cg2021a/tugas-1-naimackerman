@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background: #4c4c4c;
+    color: white;
+}
+
+select {
+    background: white;
+    padding: 10px;
+}
