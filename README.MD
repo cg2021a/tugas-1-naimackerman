@@ -25,3 +25,6 @@
 
 ### Preview User Interaction Three-JS : <a href="https://cg2021a.github.io/tugas-1-naimackerman/tugas-individu-threejs">Tugas-Individu-ThreeJS</a>
 <img src="./tugas-individu-threejs/preview.JPG">
+
+### Preview Tugas 3 Three-JS : <a href="https://cg2021a.github.io/tugas-1-naimackerman/tugas-3-threejs">Tugas-3-ThreeJS</a>
+<img src="./tugas-3-threejs/assets/images/preview.JPG">
